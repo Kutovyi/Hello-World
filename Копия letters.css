@@ -1,0 +1,35 @@
+
+
+/* Октавиан Аугуст */
+.class1 {
+	font-family: "Times New Roman", sans-serif;
+	font-variant: small-caps;
+	font-size: 18px;
+	line-height: 27px;
+	word-spacing: 5px 
+}
+
+/* Канси */
+
+.class2 {
+	font: italic;
+	font-family: "courier new" courier, monospace;
+	letter-spacing: 10%;
+	word-spacing: 20%;
+	line-height: 200%
+}
+
+/* Палпатин */
+
+.class3 {
+font-family: Impact, Charcoal, sans-serif;
+text-align: right;
+text-shadow: -5px 3px 2px rgb(133,133,133);
+
+}
+
+.name {
+font-weight: bold;
+}
+
+
